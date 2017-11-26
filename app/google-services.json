@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "899242711018",
+    "firebase_url": "https://androidproject1-e4693.firebaseio.com",
+    "project_id": "androidproject1-e4693",
+    "storage_bucket": "androidproject1-e4693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899242711018:android:e71bb632cbfb1f4c",
+        "android_client_info": {
+          "package_name": "com.example.user.foodfriends2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899242711018-3j6keiq6er0o77pa284756dbnd99jpug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsZpKYUzm-WeeX5Fnho_84guxqfEIeHRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
